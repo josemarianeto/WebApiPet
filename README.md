@@ -17,3 +17,7 @@ I decide to use "Shops" to refer a Pet Shops and Vet Clinic's
 
 
 <img src="./WebApiPet/Images/Vets.png" width="100%" height="400">
+
+
+## Tecnologias
+C#, EntityFrameworkCore, .NetCore 5, Postgres SQL, Swagger, Docker 
